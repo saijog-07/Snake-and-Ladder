@@ -22,3 +22,6 @@ To run the game, simply download the project files and import them into Android 
 
   
   ![Gameplay Preview](sal1.png)
+  ![Gameplay Preview](sal2.png)
+  ![Gameplay Preview](sal3.png)
+  ![Gameplay Preview](sal4.png)
