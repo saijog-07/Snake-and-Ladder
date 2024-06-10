@@ -21,7 +21,10 @@ To run the game, simply download the project files and import them into Android 
 - Special thanks to the developers of Android Studio and the Android SDK for providing the tools necessary to create this project.
 
   
-  ![Gameplay Preview](sal1.png)
-  ![Gameplay Preview](sal2.png)
-  ![Gameplay Preview](sal3.png)
-  ![Gameplay Preview](sal4.png)
+  ## Gameplay Preview
+
+<img src="images/sal1.png" alt="Gameplay Preview" width="200" height="400">
+<img src="images/sal2.png" alt="Gameplay Preview" width="200" height="400">
+<img src="images/sal3.png" alt="Gameplay Preview" width="200" height="400">
+<img src="images/sal4.png" alt="Gameplay Preview" width="200" height="400">
+
