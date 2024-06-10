@@ -19,3 +19,6 @@ To run the game, simply download the project files and import them into Android 
 
 - This project was inspired by the classic game "Snakes and Ladders".
 - Special thanks to the developers of Android Studio and the Android SDK for providing the tools necessary to create this project.
+
+  
+  ![Gameplay Preview](sal1.png)
