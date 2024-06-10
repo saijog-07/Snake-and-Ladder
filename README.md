@@ -22,9 +22,9 @@ To run the game, simply download the project files and import them into Android 
 
   
   ## Gameplay Preview
-
-<img src="sal1.png" alt="Gameplay Preview" width="200" height="400">
-<img src="sal2.png" alt="Gameplay Preview" width="200" height="400">
-<img src="sal3.png" alt="Gameplay Preview" width="200" height="400">
-<img src="sal4.png" alt="Gameplay Preview" width="200" height="400">
-
+<div style="display: flex;">
+  <img src="sal1.png" alt="Gameplay Preview" width="200" height="400">
+  <img src="sal2.png" alt="Gameplay Preview" width="200" height="400">
+  <img src="sal3.png" alt="Gameplay Preview" width="200" height="400">
+  <img src="sal4.png" alt="Gameplay Preview" width="200" height="400">
+</div>
